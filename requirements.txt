@@ -1,0 +1,22 @@
+# Kupido Player 4.5 - Python Dependencies
+# Core UI & Window Management
+customtkinter>=5.2.0
+pillow>=10.0.0
+pystray>=0.19.5
+cairosvg>=2.7.0
+
+# Media Playback & Extraction
+python-vlc>=3.0.20123
+yt-dlp>=2024.08.06
+requests>=2.31.0
+
+# Text-to-Speech & Export
+gTTS>=2.4.0
+pyttsx3>=2.90
+reportlab>=4.0.0
+
+# Optional Local AI Transcription & Offline Intelligence
+openai-whisper>=20231117
+torch>=2.0.0
+transformers>=4.35.0
+llama-cpp-python>=0.2.70
