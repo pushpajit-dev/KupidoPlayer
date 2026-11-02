@@ -12,6 +12,9 @@
 <p align="center">
  <img src="https://i.imgur.com/mgpuwpj.jpeg" alt="Gemini_Generated_Image_gbql7kgbql7kgbql-clean" />
 </p>
+<p align="center">
+  <a href="https://drive.google.com/file/d/1I3GU8q4U5e250LIXdNbBrkagiE2TU5su/view?usp=sharing">Download Kupido Player 4.5 Setup</a>
+</p>
 
 ## 🌟 Key Features
 
