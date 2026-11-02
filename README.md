@@ -9,6 +9,9 @@
 > A sleek, high-performance multimedia player and offline AI transcription studio crafted with Python, CustomTkinter, and libVLC. Designed with a modern dark navy and electric blue aesthetic, zero-terminal silent execution, and rich playback intelligence.
 
 ---
+<p align="center">
+ <img src="https://i.imgur.com/mgpuwpj.jpeg" alt="Gemini_Generated_Image_gbql7kgbql7kgbql-clean" />
+</p>
 
 ## 🌟 Key Features
 
