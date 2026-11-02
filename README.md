@@ -15,6 +15,9 @@
 <p align="center">
   <a href="https://drive.google.com/file/d/1I3GU8q4U5e250LIXdNbBrkagiE2TU5su/view?usp=sharing">Download Kupido Player 4.5 Setup</a>
 </p>
+<p align="center">
+  <a href="https://drive.google.com/file/d/10hH_t1iCIV1SBhUFZm7wR8oFK0si8CWf/view?usp=drive_link">Plug&Play</a>
+</p>
 
 ## 🌟 Key Features
 
