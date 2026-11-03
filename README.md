@@ -13,10 +13,10 @@
  <img src="https://i.imgur.com/mgpuwpj.jpeg" alt="Gemini_Generated_Image_gbql7kgbql7kgbql-clean" />
 </p>
 <p align="center">
-  <a href="https://drive.google.com/file/d/1I3GU8q4U5e250LIXdNbBrkagiE2TU5su/view?usp=sharing">Download Kupido Player 4.5 Setup</a>
+  <a href="https://drive.google.com/file/d/1TTXXdjNIgg9AbscgydwQaaTtMdVLWjt8/view?usp=drive_link">Download Kupido Player 4.5 Setup</a>
 </p>
 <p align="center">
-  <a href="https://drive.google.com/file/d/10hH_t1iCIV1SBhUFZm7wR8oFK0si8CWf/view?usp=drive_link">Plug&Play</a>
+  <a href="https://drive.google.com/file/d/1-A9MMjBpvNozRU2tEsNKoEJ63-7JTm_o/view?usp=drive_link">Plug&Play</a>
 </p>
 
 ## 🌟 Key Features
